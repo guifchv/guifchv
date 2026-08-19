@@ -15,7 +15,7 @@ Busco oportunidades para desenvolver minha carreira na área de tecnologia, apli
 
 ### 🎓 Formação & Qualificações
 
-- 🎓 **Bacharelado em Ciência da Computação** – Universidade Cruzeiro do Sul *(Cursando - 1º Semestre)*[cite: 1]
+- 🎓 **Bacharelado em Ciência da Computação** – Universidade Cruzeiro do Sul *(Cursando - 2º Semestre)*[cite: 1]
 - 📚 **Lógica de Programação & Python** – Prática no desenvolvimento de algoritmos e estruturas de dados em Python[cite: 1].
 - 🏢 **Administração (Curso Profissionalizante)** – CIEE *(Cursando)*[cite: 1]
 - 🤝 **Aprendizagem Profissional em Comércio de Bens, Serviços e Turismo** – SENAC *(1080h - Concluído)*[cite: 1]
